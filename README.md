@@ -1,2 +1,2 @@
-# hello-world
+# Event Portal
 Python Project Repository
