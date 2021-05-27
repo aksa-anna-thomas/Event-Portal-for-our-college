@@ -1,5 +1,5 @@
 # Event Portal
-Python Project Repository
+Python Project Repository. 
 This is an event portal project
 In this project we have tried to include login page, 
 Profile page and welcome page. 
