@@ -8,7 +8,7 @@ Python flask is being used as the framework.
 Sqlalchemy is used. 
 
 #Team Members
-1.Aksa Anna Thomas [
+1.Aksa Anna Thomas [https://github.com/aksa-anna-thomas]
 2.Aleena K T [https://github.com/ALEENA-KT]
 3.Anusha Nair B [https://github.com/Anusha-Nair-B]
 
